@@ -2,6 +2,59 @@ import tkinter as tk
 alpha = 0
 
 heya = 0
+# FILLER SO YOU DONT CHEAT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # FIRST PUZZLE
 puzzling = tk.Tk()
