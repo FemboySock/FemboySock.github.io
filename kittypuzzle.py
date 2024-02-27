@@ -84,9 +84,8 @@ def get_current_letters():
     for button in all_buttons:
         current_letters.append(button.cget("text"))
     print("Current letters on buttons:", current_letters)
-    if current_letters == ['A', 'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A']:
+    if current_letters == ['X', 'C', 'Y', 'H', '7', 'G', 'Z', 'Q', 'F']:
         global heya
-        #'X', 'C', 'Y', 'H', '7', 'G', 'Z', 'Q', 'F'
         puzzle_label.configure(text="P̛͈͇̑̿̔́̈͛́͛͂̽͛͌̚͠u̻̦̲̫̺̹͕̖̳̤̼̟͌͂̔̽̇̚z̰̩̗͔̟̺̃͆̆͂̅̓̇̈́͛̿̕͠z̨̧̤̻̯̗̙̱͙̰̠̑̈́́͂͋l̘͙̬̺̦͋̐̿͗̇͘͠e̛̹͍͚̣̒̊̃̈́̈̑ 2", fg="magenta")
         canvas.destroy()
         test_button1.destroy()
